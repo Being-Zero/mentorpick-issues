@@ -1,3 +1,4 @@
-# mentorpick-issues
+# Mentorpick Issues
 
-Report bugs, feature requests or any feedback for Mentorpick.com platform.
+Exclusively for reporting issues or requesting/suggesting features for Mentorpick Platform (mentorpick.com).
+
